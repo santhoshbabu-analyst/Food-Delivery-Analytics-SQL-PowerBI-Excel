@@ -20,8 +20,8 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 - Track **daily, weekly, monthly, and YTD orders**
 - Compare **Zomato vs Swiggy** performance
 - Identify **top cities and high-demand areas**
-- Analyze **WoW, MoM, YoY growth**
-- Support **management & operations teams**
+- Analyze **WoW, MoM, and YoY growth**
+- Support **management and operations teams**
 
 ---
 
@@ -30,10 +30,10 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 | Tool | Usage |
 |----|----|
 | **SQL (MySQL)** | Data aggregation, trends, window functions |
-| **Power BI** | Interactive dashboards & KPIs |
-| **Excel** | Daily operational & executive reports |
-| **Power Query** | Data cleaning & transformations |
-| **DAX** | KPIs, YoY, moving averages |
+| **Power BI** | Interactive dashboards and KPIs |
+| **Excel** | Daily operational and executive reports |
+| **Power Query** | Data cleaning and transformations |
+| **DAX** | KPIs, YoY growth, moving averages |
 
 ---
 
@@ -42,12 +42,12 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 ---
 
 ### 🔴 Zomato Dashboard
-- Total Orders & Revenue
-- Avg Delivery Time & Ratings
+- Total Orders and Revenue
+- Average Delivery Time and Ratings
 - Monthly Order Trend
-- City & Area-wise Performance
-- Cuisine & Payment Mode Analysis
-- Interactive filters for **Month, City, Area**
+- City and Area-wise Performance
+- Cuisine and Payment Mode Analysis
+- Interactive filters for **Month, City, and Area**
 
 ![Zomato Power BI Dashboard](Images/zomato_dashboard.png)
 
@@ -57,7 +57,7 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 - Platform-specific KPIs
 - Area-wise demand analysis
 - Monthly trends
-- Delivery performance & payment modes
+- Delivery performance and payment modes
 
 ![Swiggy Power BI Dashboard](Images/swiggy_dashboard.png)
 
@@ -67,20 +67,20 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 
 ---
 
-### 📅 Daily & Periodic Performance Report
+### 📅 Daily and Periodic Performance Report
 - Day-1, Day-2, Day-3 Orders
 - Last 7 / 15 / 30 / 60 / 90 / 180 / 365 days
-- Weekly, Monthly & YTD summaries
+- Weekly, Monthly, and YTD summaries
 
 ![Excel Daily Report](Images/excel_daily_report.png)
 
 ---
 
-### 🏙 City & Area-wise Analysis
-- City contribution & ranking
+### 🏙 City and Area-wise Analysis
+- City contribution and ranking
 - Area-wise platform preference
 - Zomato vs Swiggy split
-- WoW & MoM growth tracking
+- WoW and MoM growth tracking
 
 ![Excel City Area Report](Images/excel_city_area.png)
 
@@ -98,12 +98,12 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 
 ## 🧠 SQL Analysis Highlights
 
-- Daily, weekly & monthly order tracking
-- WoW, MoM & YoY growth calculations
-- Rolling averages & moving trends
-- City & area ranking using window functions
-- Customer retention & repeat analysis
-- Platform share % & seasonality analysis
+- Daily, weekly, and monthly order tracking
+- WoW, MoM, and YoY growth calculations
+- Rolling averages and moving trends
+- City and area ranking using window functions
+- Customer retention and repeat analysis
+- Platform share percentage and seasonality analysis
 
 ---
 
@@ -112,7 +112,7 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 1. Daily order data received
 2. New data appended to historical table
 3. SQL queries auto-recalculate KPIs
-4. Excel & Power BI dashboards refreshed
+4. Excel and Power BI dashboards refreshed
 5. Management reports updated instantly
 
 ---
@@ -121,9 +121,9 @@ The project covers **data analysis using SQL**, **interactive dashboards using P
 
 - Chennai contributes **~60% of total orders**
 - Zomato holds a **slight market share advantage**
-- OMR & Adyar show consistently high demand
+- OMR and Adyar show consistently high demand
 - Swiggy dominates premium areas
-- Recent weekly trend shows decline in orders
+- Recent weekly trend shows a decline in orders
 
 ---
 
